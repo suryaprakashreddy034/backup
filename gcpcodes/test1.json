@@ -1,0 +1,295 @@
+[{
+	"type": "configuration/entityTypes/HCP",
+	"attributes": {
+        "FirstName": [{
+			"value": "Linda"
+		}],
+        "LastName": [{
+			"value": "LastName"
+		}],
+        "MaidenName": [{
+			"value": "MaidenName"
+		}],
+        "MiddleName": [{
+			"value": "MiddleName"
+		}],
+        "DOB": [{
+			"value": "DOB"
+		}],
+        "Gender": [{
+			"value": "Gender"
+		}],
+        "SSN": [{
+			"value": "SSN"
+		}],
+        "NameSuffix": [{
+			"value": "NameSuffix"
+		}],
+        "FieldofLicensure": [{
+			"value": "FieldofLicensure"
+		}],
+        "CredentialInUse": [{
+			"value": "CredentialInUse"
+		}],
+		"ManagedIdentifiers": [{
+			"value": {
+				"ManagedIdentifierType": [{
+						"value": "NPI"
+					},
+					{
+						"value": "NPI"
+					},
+					{
+						"value": "NPI"
+					},
+					{
+						"value": "NPI"
+					}
+				],
+				"Managed IdentifierValue": [{
+						"value": "302"
+					},
+					{
+						"value": "302"
+					},
+					{
+						"value": "302"
+					},
+					{
+						"value": "302"
+					},
+					{
+						"value": "302"
+					},
+					{
+						"value": "302"
+					}
+				],
+				"ManagedIdentifierSubType": [{
+                    "value": "ManagedIdentifierSubType"
+                    }],
+				"IssuingAuthority": [{
+					"value": "IssuingAuthority"
+				    }],
+				"Profession": [{
+					"value": "Profession"
+				    }],
+				"State": [{
+					"value": "State"
+				    }],
+				"IssueDate": [{
+					"value": "IssueDate"
+				    }],
+				"RenewalDate": [{
+					"value": "RenewalDate"
+				    }],
+				"ExpiryDate": [{
+					"value": "ExpiryDate"
+				    }]
+			}
+		}],
+		"SystemIdentifiers": [{
+			"value": {
+				"SystemIdentifierType": [{
+						"value": "SystemIdentifierType"
+					}
+				],
+				"SystemIdentifierValue": [{
+						"value": "SystemIdentifierValue"
+					}
+				]
+            }
+		}],
+        "Credentials": [{
+			"value": {
+				"CredentialCode": [{
+						"value": "CredentialCode"
+					}
+				],
+				"CredentialDescription": [{
+						"value": "CredentialDescription"
+					}
+				]
+            }
+		}],
+        "AlternateNames": [{
+			"value": {
+				"AlternateType": [{
+						"value": "AlternateType"
+					}
+				],
+                "AlternateFirstName": [{
+						"value": "AlternateFirstName"
+					}
+				],
+                "AlternateLastName": [{
+						"value": "AlternateLastName"
+					}
+				],
+				"AlternateMiddleName": [{
+						"value": "AlternateMiddleName"
+					}
+				]
+                
+            }
+		}],
+        "LanguagesSpoken": [{
+			"value": {
+				"LanguageSpokenCode": [{
+						"value": "LanguageSpokenCode"
+					}
+				],
+				"LanguageSpokenDescription": [{
+						"value": "LanguageSpokenDescription"
+					}
+				]
+            }
+		}],
+        "NamePrefix": [{
+			"value": "NamePrefix"
+		}],
+        "PreferredName": [{
+			"value": "PreferredName"
+		}],
+        "Ethnicity": [{
+			"value": "Ethnicity"
+		}],
+        "DomesticPartnerName": [{
+			"value": "DomesticPartnerName"
+		}],
+        "MaritalStatus": [{
+			"value": "MaritalStatus"
+		}],
+                "Deceased": [{
+			"value": "Deceased"
+		}],
+                "DeathDate": [{
+			"value": "DeathDate"
+		}],
+        "Email": [{
+			"value": {
+				"Type": [{
+						"value": "Type"
+					}
+				],
+				"Email": [{
+						"value": "Email"
+					}
+				]
+            }
+		}],
+        "Phone": [{
+			"value": {
+                "Type": [{
+                    "value": "Type"
+                    }],
+                "Number": [{
+						"value": "Number"
+					}
+				],
+                "Extension": [{
+						"value": "Extension"
+					}
+				],
+				"IsPrimary": [{
+						"value": "IsPrimary"
+					}
+				]
+            }
+		}],
+        "Educations": [{
+			"value": {
+				"EducationInstitution": [{
+						"value": "EducationInstitution"
+					}
+				],
+                "EducationType": [{
+						"value": "EducationType"
+					}
+				],
+                "ReferenceIUse": [{
+						"value": "ReferenceIUse"
+					}
+				],
+                "SubjectOfStudy": [{
+						"value": "SubjectOfStudy"
+					}
+				],
+                "AcademicDegree": [{
+						"value": "AcademicDegree"
+					}
+				],
+                "Academic Degree Start Date": [{
+						"value": "Academic Degree Start Date"
+					}
+				],
+                "Academic Degree End Date": [{
+						"value": "Academic Degree End Date"
+					}
+				]
+            }
+		}],
+        "BoardCertifications": [{
+			"value": {
+				"Board Certification Name": [{
+						"value": "Board Certification Name"
+					}
+				],
+                "Board Certification Specialty": [{
+						"value": "Board Certification Specialty"
+					}
+				],
+                "Board Certification Status": [{
+						"value": "Board Certification Status"
+					}
+				],
+                "Board Certification Number": [{
+						"value": "Board Certification Number"
+					}
+				],
+                "Board Certification LIfetime Status": [{
+						"value": "Board Certification LIfetime Status"
+					}
+				],
+                "Board Certification In Use": [{
+						"value": "Board Certification In Use"
+					}
+				],
+                "Board Certification Initial Date": [{
+						"value": "Board Certification Initial Date"
+					}
+				],
+                "Board Certification Expiration Date": [{
+						"value": "Board Certification Expiration Date"
+					}
+				],
+                "Board Certification Exam Date": [{
+						"value": "Board Certification Exam Date"
+					}
+				]
+            }
+		}],
+                "ClinicalExpertise": [{
+			"value": "ClinicalExpertise"
+		}],
+                "Taxonomy": [{
+			"value": "Taxonomy"
+		}],
+                "Status": [{
+			"value": "Status"
+		}],
+                "ProviderStanding": [{
+			"value": "ProviderStanding"
+		}],
+                "ProviderStandingComment": [{
+			"value": "ProviderStandingComment"
+		}]
+
+        
+
+	},
+	"crosswalks": [{
+		"type": "configuration/sources/MDStaff",
+		"value": "MDSTAFF234578"
+	}]
+}]
